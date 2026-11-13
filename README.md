@@ -1,1 +1,1 @@
-This project I had to create a backend for a SQL Database with an Angular frontend. This is only the backend of that project. This manages customer personal information as well as purchase information. There are included PDFs of the project structure.
+This project I had to create a backend for a SQL Database with an Angular frontend. This is only the backend of that project. This manages customer personal information as well as purchase information. This adds features such as adding / removing items from cart. There are included PDFs of the project structure.
